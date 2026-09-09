@@ -12,9 +12,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-- 🎓 I.m currently persuing my degree in **Master of Computer Application**.
+- 🏢 I.m currently working in **Capgemini**.
 
-- 🌱 I’m currently learning **React.js, Express.js & Python**
+- 🌱 I’m currently learning **Python, AI & ML, Data Science, Gen AI**
 
 - 🔭 I’m currently working on [Journey-Sweet-Sync](https://github.com/Sayan-Dasher-02/journey-sweat-sync)
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [Sayan-Mondal-Portfolio](https://sayan-mondal-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java, SQL, AWS**
+- 💬 Ask me about **Java, Python, SQL, AWS**
 
 - 📫 How to reach me **sayanmon2021dal@gmail.com**
 
@@ -54,7 +54,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
