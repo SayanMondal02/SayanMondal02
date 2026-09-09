@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Anta&size=28&pause=1000&color=99e6ff&center=true&vCenter=true&width=650&lines=Hey+There%2C+I'm+Sayan+%F0%9F%91%8B;Full+Stack+Magician+%F0%9F%9A%80;Coding+with+coffee+and+creativity+%E2%98%95;Welcome+to+my+world+%F0%9F%8C%90" alt="Typing SVG" />
   <p> 
-    <a href="https://github.com/Sayan-Dasher-02?tab=followers"> <img src="https://img.shields.io/github/followers/Sayan-Dasher-02?label=Followers&style=for-the-badge&color=DA70D6&labelColor=1B1F23&logo=github" alt="GitHub Followers"/> </a> 
-    <a href="https://github.com/Sayan-Dasher-02?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Check%20them%20out-DA70D6?style=for-the-badge&labelColor=1B1F23&logo=github" alt="Repositories"/> </a> 
-    <a href="https://komarev.com/ghpvc/?username=Sayan-Dasher-02"> <img src="https://komarev.com/ghpvc/?username=Sayan-Dasher-02&color=DA70D6&style=for-the-badge&label=Profile+Views" alt="Profile views"/> </a> 
+    <a href="https://github.com/SayanMondal02?tab=followers"> <img src="https://img.shields.io/github/followers/SayanMondal02?label=Followers&style=for-the-badge&color=DA70D6&labelColor=1B1F23&logo=github" alt="GitHub Followers"/> </a> 
+    <a href="https://github.com/SayanMondal02?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Check%20them%20out-DA70D6?style=for-the-badge&labelColor=1B1F23&logo=github" alt="Repositories"/> </a> 
+    <a href="https://komarev.com/ghpvc/?username=SayanMondal02"> <img src="https://komarev.com/ghpvc/?username=SayanMondal022&color=DA70D6&style=for-the-badge&label=Profile+Views" alt="Profile views"/> </a> 
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dreams-DA70D6?style=for-the-badge&labelColor=1B1F23" alt="Focus"/> 
   </p>
 </div>
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Journey-Sweet-Sync](https://github.com/Sayan-Dasher-02/journey-sweat-sync)
 
-- 👯 I’m looking to collaborate on [Unifind.in](https://github.com/Sumitswappy/MinorProject/tree/master) and [NoPlateEmpty](https://github.com/Sayan-Dasher-02/No-Plate-Empty-Website.git)
+- 👯 I’m looking to collaborate on [Unifind.in](https://github.com/Sumitswappy/MinorProject/tree/master) and [NoPlateEmpty](https://github.com/SayanMondal02/No-Plate-Empty-Website.git)
 
 - 👨‍💻 All of my projects are available at [Sayan-Mondal-Portfolio](https://sayan-mondal-portfolio.netlify.app/)
 
@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-own-readme-stats.vercel.app/api/top-langs?username=Sayan-Dasher-02&layout=compact&theme=tokyonight&stats_format=bytes" width="35%" alt="Most Used Languages"/>
-  <img src="https://my-own-readme-stats.vercel.app/api?username=Sayan-Dasher-02&show=prs_merged&show_icons=true&theme=tokyonight" width="35%" alt="Github Stats"/>
+  <img src="https://my-own-readme-stats.vercel.app/api/top-langs?username=SayanMondal02&layout=compact&theme=tokyonight&stats_format=bytes" width="35%" alt="Most Used Languages"/>
+  <img src="https://my-own-readme-stats.vercel.app/api?username=SayanMondal02&show=prs_merged&show_icons=true&theme=tokyonight" width="35%" alt="Github Stats"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
   
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Sayan-Dasher-02&theme=tokyonight" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=SayanMondal02&theme=tokyonight" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
   </a>
 
-  <a href="https://github.com/Sayan-Dasher-02" target="_blank">
+  <a href="https://github.com/SayanMondal02" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
 
